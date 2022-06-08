@@ -31,6 +31,7 @@ import java.util.*;
 
 public class Solution3 {
 
+
         public int[] solution(String[] id_list, String[] report, int k) {
 
             System.out.println("id_list : "+ Arrays.toString(id_list));
